@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ykulkarni-ops
 - 👀 I’m interested in Rehabilitation robotics, Artificial intelligence and Deep learning
-- 🌱 I’m currently learning Robotics at University of Maryland College park 
+- 🌱 I’m currently learning Robotics and will be pursuing Master's in engineering at University of Maryland, College park.
 - 💞️ I’m looking to collaborate on Research in rehabilitation robotics 
 - 📫 How to reach me you can reach me at kulkarniyash333@gmail.com , ykulkarn@umd.edu
 
