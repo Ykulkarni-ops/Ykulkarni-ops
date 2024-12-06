@@ -19,3 +19,4 @@ My motivation for pursuing a career in AI stems from my early experiences with m
 </a>
 
 <hr> <h3> My GitHub Analytics </h3> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ykulkarni-ops&show_icons=true&locale=en&layout=compact&theme=merko" alt="Ykulkarni-ops" /></p><br> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ykulkarni-ops&&theme=merko" alt="Yash Kulkarni" /></p>
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ykulkarni-ops&show_icons=true&theme=radical)
